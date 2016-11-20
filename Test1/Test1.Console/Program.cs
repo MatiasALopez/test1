@@ -10,7 +10,7 @@ namespace Test1.Console
     {
         static void Main(string[] args)
         {
-            // agregado en bugfix1
+            // modificado en master
         }
     }
 }
