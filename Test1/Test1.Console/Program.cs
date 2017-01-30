@@ -10,7 +10,7 @@ namespace Test1.Console
     {
         static void Main(string[] args)
         {
-            // modificado en master (conflicto resuelto)
+            // modificado en master
         }
     }
 }
